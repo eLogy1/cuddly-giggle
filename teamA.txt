@@ -1,0 +1,3 @@
+ if(op==='-')
+    {
+        return ans=num1-num2
